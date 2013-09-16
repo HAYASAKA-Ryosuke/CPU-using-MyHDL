@@ -1,4 +1,4 @@
-#fpga for CPU using the MyHDL
+#FPGA for CPU using the MyHDL
 
 #OverView
 This FPGA script is calculation using simple pipeline.
@@ -24,6 +24,8 @@ ope2:output instructioons of between 0bit and 7bit.
 
 by the way not using of between 24bit and 31bit.
 
+#vcdfile
+VCDfile need you show signal wave using GTKWAVE.
 
 ---------------------------------------
 The MIT License
